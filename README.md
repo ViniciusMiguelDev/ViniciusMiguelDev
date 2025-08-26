@@ -1,17 +1,27 @@
-## Bem-vindo(a) ao perfil de Vinicius Miguel 😁
 
-<div style="display: inline_block"><br>
- 
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
- 
- <br>
- 
-  ### Me segue nas redes abaixo para mais informações!
- 
-<div> 
-  <a href = "mailto:vmfasdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vinicius-silva0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## Vinicius Miguel Silva
+
+Desenvolvedor na [Avanade](https://www.avanade.com/pt-br), apaixonado por tecnologia e inovação.
+
+### Sobre mim
+
+- Desenvolvedor especializado em **Angular** e **Spring Boot**
+- Experiência também com **Node.js** e **React**
+- Certificado **Microsoft AI-900: Azure AI Fundamentals**
+- Sempre buscando aprender e compartilhar conhecimento
+
+### Contato
+
+- Email: [vmfasdev@gmail.com](mailto:vmfasdev@gmail.com)
+- LinkedIn: [vinicius-silva0](https://www.linkedin.com/in/vinicius-silva0)
+
+### Tecnologias
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+Seja bem-vindo ao meu GitHub!
