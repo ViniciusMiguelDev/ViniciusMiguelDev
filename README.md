@@ -4,7 +4,7 @@ Desenvolvedor na [Avanade](https://www.avanade.com/pt-br), apaixonado por tecnol
 
 ### Sobre mim
 
-- Desenvolvedor especializado em **Angular** e **Spring Boot**
+- Desenvolvedor especializado em **Angular**, **Spring Boot** e **C#**
 - Experiência também com **Node.js** e **React**
 - Certificados: **Microsoft AI-900: Azure AI Fundamentals**, **Microsoft AZ-900: Azure Fundamentals**, **Microsoft PL-900: Power Platform Fundamentals**, **Microsoft MB-910: Dynamics 365 Fundamentals (CRM)** e **GitHub GH-300: GitHub Copilot**
 
